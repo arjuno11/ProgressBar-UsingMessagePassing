@@ -1,0 +1,2 @@
+rootProject.name='Progress Bar - Using Message Passing'
+include ':app'
